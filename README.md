@@ -2,7 +2,7 @@
 
 ## I am Izan, a Front-End Developer!
 <ul>
-  <li>🌱 I'm currently learning React Hooks;</li>
+  <li>🌱 I'm currently learning Spring Boot;</li>
   <li>😄 Pronouns: She/her;
   <li>🧡 Loves: Movies, cats and shrimp.
 </ul>
