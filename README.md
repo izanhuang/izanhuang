@@ -2,9 +2,9 @@
 
 ## I am Izan, a Front-End Developer!
 <ul>
-  <li>🌱 I'm currently learning Spring Boot;</li>
+  <li>🌱 I'm currently improving my backend skills;</li>
   <li>😄 Pronouns: She/her;
-  <li>🧡 Loves: Movies, cats and shrimp.
+  <li>🧡 Loves: Movies, cats, and shrimp.
 </ul>
 
 ## ⚡ Technologies
