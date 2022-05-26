@@ -2,7 +2,7 @@
 
 ## I am Izan, a Front-End Developer!
 <ul>
-  <li>🌱 I'm currently improving my backend skills;</li>
+  <li>🌱 I'm currently improving my full stack skills;</li>
   <li>😄 Pronouns: She/her;
   <li>🧡 Loves: Movies, cats, and shrimp.
 </ul>
