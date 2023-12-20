@@ -1,16 +1,14 @@
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" width="350" height="250" />
-
-## I am Izan, a Front-End Developer!
+## Hi, I'm Izan!
 <ul>
-  <li>🌱 I'm currently learning the Vue.js framework;</li>
-  <li>😄 Pronouns: She/her;
-  <li>🧡 Loves: Movies, cats, and shrimp.
+  <li>🌱 Software Engineer working with frontend web frameworks</li>
+  <li>🏫 Studied Information Systems at Stony Brook University, New York</li>
+  <li>💭 Currently learning about mobile development</li>
 </ul>
 
 ## ⚡ Technologies
 These are some of the technologies and tools I am familiar with:
 
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white&style=flat" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/> <img alt="Bootstrap" src="https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white&style=flat" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/> <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" />
 
 <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/> <img alt="Visual_Studio_Code" src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white"/>
 
