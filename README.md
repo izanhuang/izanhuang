@@ -2,7 +2,7 @@
 <ul>
   <li>🌱 Software Engineer working with frontend web frameworks</li>
   <li>🏫 Studied Information Systems at Stony Brook University, New York</li>
-  <li>💭 Currently working at Lowe's Companies</li>
+  <li>💭 Currently working on personal projects</li>
 </ul>
 
 ## ⚡ Technologies
