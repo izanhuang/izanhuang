@@ -1,20 +1,58 @@
-## Hi, I'm Izan!
-<ul>
-  <li>🌱 Software Engineer working with frontend web frameworks</li>
-  <li>🏫 Studied Information Systems at Stony Brook University, New York</li>
-  <li>💭 Currently working on personal projects</li>
-</ul>
+## Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
+I am `Izan Huang`, a software engineer based in Charlotte, NC. Looking to move to NY!
 
-## ⚡ Technologies
-These are some of the technologies and tools I am familiar with:
+- 🌱 Full-stack web: React.js + Node.js
+- 👩‍💻 3 years of frontend web experience
+- 🏫 Stony Brook University graduate with B.S. in Information Systems
+- 💜 Likes React.js, TypeScript, and CSS
+- 🐈 Fun fact: I have 4 cats!
 
-<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white&style=flat" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white"/> <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB"/> <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D" />
+## Work Experience
+- [Jul 2024 – Jan 2025](https://www.lowes.com/): Software Engineer @ Lowe's Companies, Inc.
+- Jul 2022 – Jul 2024: Junior Frontend Developer @ TransPerfect -> B2B web application
+- Aug 2021 – Jul 2022: Frontend Developer @ Cognizant -> internal projects
 
-<img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/> <img alt="Visual_Studio_Code" src="https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=flat&logo=figma&logoColor=white"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Light%20Blue%20Heart.png" alt="Light Blue Heart" width="25" height="25" /> Technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-3178C6.svg?logo=react&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-6DA55F.svg?logo=express&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=fff)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7A41D?&logo=prettier&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=fff)
+<!--- (![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=fff)) --->
 
-## 📫 Where to find me
-**[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:huang.izan@gmail.com)**
-**[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/izanhuang/)**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Projects
+**Full Stack Web**
+ - [SAI](https://sai-client.onrender.com): A self-improvement AI chatbot driven by GPT-3.5-turbo using React.js + Express.js
+ - [izanhuang/facebook-clone](https://github.com/izanhuang/facebook-clone): Facebook clone replicating core functionalities using React.js + Firebase
+ - [izanhuang/movie-finder-web](https://github.com/izanhuang/movie-finder-web): A movie finder where you can search, star movies, and create lists using React.js + Firebase
+ - [Peri](https://master.d6dalrasgqnrs.amplifyapp.com/): An online e-commerce web application created using React.js + AWS (Lambda, API Gateway, DynamoDB)
+
+**Front End**
+ - [izanhuang/pomodoro-clock](https://github.com/izanhuang/pomodoro-clock): An online timer for managing sessions of work or study, and break time
+ - [izanhuang/local-weather-app](https://github.com/izanhuang/local-weather-app): Find the temperature of your local area in Celsius and Fahrenheit
+ - [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): A markdown editor with a responsive previewer
+ - [tmp-portfolio](izanhuang.github.io/tmp-portfolio/) [figma](https://www.figma.com/design/dai19c8WTE92ivh3udT9a8/Izan's-Portfolio-Design?node-id=0-1&t=jZeNfmTZysxmSTg7-1): My old portfolio website
+
+**Back End**
+- [izanhuang/pizzeria](https://github.com/izanhuang/pizzeria): A database for pizza made with Python and Django
+
+**Android**
+ - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): Kotlin (Jetpack Compose), Dagger, Preferences DataStore
+ - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Kotlin (Jetpack Compose), Room
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Where to find me
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Izan_Huang-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/izanhuang/)
+[<img alt="Gmail" src="https://img.shields.io/badge/huang.izan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:huang.izan@gmail.com)
 
 <!--
 **izanhuang/izanhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,4 +70,6 @@ Here are some ideas to get you started:
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://github.com/Ileriayo/markdown-badges
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file#--gifs-for-readme--
+https://animated-fluent-emoji.vercel.app/
 -->
