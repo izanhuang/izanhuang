@@ -1,5 +1,5 @@
 ## Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
-I am `Izan Huang`, a software engineer based in Charlotte, NC. Looking to move to NY!
+I am `Izan Huang`, a software engineer based in Charlotte, NC.
 
 - 🌱 Full-stack web: React.js + Node.js
 - 👩‍💻 3 years of frontend web experience
