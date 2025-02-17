@@ -7,7 +7,7 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
 - 💜 Likes React.js, TypeScript, and CSS
 - 🐈 Fun fact: I have 4 cats!
 
-## Work Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" /> Work Experience
 - [Jul 2024 – Jan 2025](https://www.lowes.com/): Software Engineer @ Lowe's Companies, Inc.
 - Jul 2022 – Jul 2024: Junior Frontend Developer @ TransPerfect -> B2B web application
 - Aug 2021 – Jul 2022: Frontend Developer @ Cognizant -> internal projects
