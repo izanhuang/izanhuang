@@ -39,8 +39,7 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
 
 **Front End**
  - [izanhuang/pomodoro-clock](https://github.com/izanhuang/pomodoro-clock): An online timer for managing sessions of work or study, and break time
- - [izanhuang/local-weather-app](https://github.com/izanhuang/local-weather-app): Find the temperature of your local area in Celsius and Fahrenheit
- - [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): A markdown editor with a responsive previewer
+ - [izanhuang/cine](https://github.com/izanhuang/cine): The frontend clone of a video on-demand streaming service
  - [tmp-portfolio](izanhuang.github.io/tmp-portfolio/) [figma](https://www.figma.com/design/dai19c8WTE92ivh3udT9a8/Izan's-Portfolio-Design?node-id=0-1&t=jZeNfmTZysxmSTg7-1): My old portfolio website
 
 **Back End**
@@ -50,8 +49,13 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
  - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): Kotlin (Jetpack Compose), Dagger, Preferences DataStore
  - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Kotlin (Jetpack Compose), Room
 
+**Other**
+- [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): A markdown editor with a responsive previewer
+- [izanhuang/local-weather-app](https://github.com/izanhuang/local-weather-app): Find the temperature of your local area in Celsius and Fahrenheit
+- [izanhuang/drum-machine](https://github.com/izanhuang/drum-machine): A simple and convenient drum machine
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Where to find me
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Izan_Huang-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/izanhuang/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/in/izanhuang-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/izanhuang/)
 [<img alt="Gmail" src="https://img.shields.io/badge/huang.izan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />](mailto:huang.izan@gmail.com)
 
 <!--
