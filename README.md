@@ -32,15 +32,19 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Projects
 **Full Stack Web**
- - [SAI](https://sai-client.onrender.com): A self-improvement AI chatbot driven by GPT-3.5-turbo using React.js + Express.js
+ - [izanhuang/sai](https://github.com/izanhuang/sai): A self-improvement AI chatbot driven by GPT-3.5-turbo using React.js + Express.js
  - [izanhuang/facebook-clone](https://github.com/izanhuang/facebook-clone): Facebook clone replicating core functionalities using React.js + Firebase
  - [izanhuang/movie-finder-web](https://github.com/izanhuang/movie-finder-web): A movie finder where you can search, star movies, and create lists using React.js + Firebase
- - [Peri](https://master.d6dalrasgqnrs.amplifyapp.com/): An online e-commerce web application created using React.js + AWS (Lambda, API Gateway, DynamoDB)
+ - [izanhuang/peri](https://github.com/izanhuang/peri): An online e-commerce web application created using React.js + AWS (Lambda, API Gateway, DynamoDB)
 
 **Front End**
+ - [izanhuang/tmp-portfolio](https://github.com/izanhuang/tmp-portfolio): My old portfolio website
  - [izanhuang/pomodoro-clock](https://github.com/izanhuang/pomodoro-clock): An online timer for managing sessions of work or study, and break time
+ - [izanhuang/javascript-calculator](https://github.com/izanhuang/javascript-calculator): A calculator
+ - [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): A markdown editor with a responsive previewer
+ - [izanhuang/local-weather-app](https://github.com/izanhuang/local-weather-app): Find the temperature of your local area in Celsius and Fahrenheit
+ - [izanhuang/drum-machine](https://github.com/izanhuang/drum-machine): A simple and convenient drum machine
  - [izanhuang/cine](https://github.com/izanhuang/cine): The frontend clone of a video on-demand streaming service
- - [tmp-portfolio](izanhuang.github.io/tmp-portfolio/) [figma](https://www.figma.com/design/dai19c8WTE92ivh3udT9a8/Izan's-Portfolio-Design?node-id=0-1&t=jZeNfmTZysxmSTg7-1): My old portfolio website
 
 **Back End**
 - [izanhuang/pizzeria](https://github.com/izanhuang/pizzeria): A database for pizza made with Python and Django
@@ -48,11 +52,6 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
 **Android**
  - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): Kotlin (Jetpack Compose), Dagger, Preferences DataStore
  - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Kotlin (Jetpack Compose), Room
-
-**Other**
-- [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): A markdown editor with a responsive previewer
-- [izanhuang/local-weather-app](https://github.com/izanhuang/local-weather-app): Find the temperature of your local area in Celsius and Fahrenheit
-- [izanhuang/drum-machine](https://github.com/izanhuang/drum-machine): A simple and convenient drum machine
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Where to find me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/in/izanhuang-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/izanhuang/)
