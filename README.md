@@ -37,21 +37,22 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
  - [izanhuang/movie-finder-web](https://github.com/izanhuang/movie-finder-web): A movie finder where you can search, star movies, and create lists using React.js + Firebase
  - [izanhuang/peri](https://github.com/izanhuang/peri): An online e-commerce web application created using React.js + AWS (Lambda, API Gateway, DynamoDB)
 
-**Front End**
+**Front End Web**
  - [izanhuang/portfolio](https://github.com/izanhuang/portfolio): My personal website
  - [izanhuang/pomodoro-clock](https://github.com/izanhuang/pomodoro-clock): An online timer for managing sessions of work or study, and break time
- - [izanhuang/javascript-calculator](https://github.com/izanhuang/javascript-calculator): A calculator
- - [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): A markdown editor with a responsive previewer
+ - [izanhuang/javascript-calculator](https://github.com/izanhuang/javascript-calculator): An online calculator
+ - [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): An online markdown editor with a responsive previewer
  - [izanhuang/local-weather-app](https://github.com/izanhuang/local-weather-app): Find the temperature of your local area in Celsius and Fahrenheit
- - [izanhuang/drum-machine](https://github.com/izanhuang/drum-machine): A simple and convenient drum machine
- - [izanhuang/cine](https://github.com/izanhuang/cine): The frontend clone of a video on-demand streaming service
+ - [izanhuang/drum-machine](https://github.com/izanhuang/drum-machine): An online virtual drum machine
+ - [izanhuang/cine](https://github.com/izanhuang/cine): The bare bones frontend of a streaming service
 
-**Back End**
-- [izanhuang/pizzeria](https://github.com/izanhuang/pizzeria): A database for pizza made with Python and Django
-
-**Android**
+**Mobile**
  - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): Kotlin (Jetpack Compose), Dagger, Preferences DataStore
  - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Kotlin (Jetpack Compose), Room
+
+**Python**
+- [izanhuang/moondream-computer-vision](https://github.com/izanhuang/moondream-computer-vision): An interactive app that can detect an object in images.
+- [izanhuang/pizzeria](https://github.com/izanhuang/pizzeria): A database for pizza made with Python and Django
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Down Light Skin Tone" width="25" height="25" /> Where to find me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/in/izanhuang-0077B5?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/izanhuang/)
