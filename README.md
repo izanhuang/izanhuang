@@ -39,8 +39,8 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
  - [izanhuang/peri](https://github.com/izanhuang/peri): An online e-commerce web application created using React.js + AWS (Lambda, API Gateway, DynamoDB)
 
 **Front End Web**
- - [izanhuang/dooble](https://github.com/izanhuang/dooble): 🚧 An online canvas with a drawing prompt
  - [izanhuang/portfolio](https://github.com/izanhuang/portfolio): My personal website
+ - [izanhuang/dooble](https://github.com/izanhuang/dooble): An online canvas with a drawing prompt
  - [izanhuang/pomodoro-clock](https://github.com/izanhuang/pomodoro-clock): An online timer for managing sessions of work or study, and break time
  - [izanhuang/javascript-calculator](https://github.com/izanhuang/javascript-calculator): An online calculator
  - [izanhuang/markdown-previewer](https://github.com/izanhuang/markdown-previewer): An online markdown editor with a responsive previewer
