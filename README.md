@@ -2,6 +2,7 @@
 I am `Izan Huang`, a software engineer based in Charlotte, NC.
 
 - 🌱 Full-stack web: React.js + Node.js
+- 🔭 I’m currently working on a drawing web app
 - 👩‍💻 3 years of frontend web experience
 - 🏫 Stony Brook University graduate with B.S. in Information Systems
 - 💜 Likes React.js, TypeScript, and CSS
@@ -38,6 +39,7 @@ I am `Izan Huang`, a software engineer based in Charlotte, NC.
  - [izanhuang/peri](https://github.com/izanhuang/peri): An online e-commerce web application created using React.js + AWS (Lambda, API Gateway, DynamoDB)
 
 **Front End Web**
+ - [izanhuang/dooble](https://github.com/izanhuang/dooble): 🚧 An online canvas with a drawing prompt
  - [izanhuang/portfolio](https://github.com/izanhuang/portfolio): My personal website
  - [izanhuang/pomodoro-clock](https://github.com/izanhuang/pomodoro-clock): An online timer for managing sessions of work or study, and break time
  - [izanhuang/javascript-calculator](https://github.com/izanhuang/javascript-calculator): An online calculator
