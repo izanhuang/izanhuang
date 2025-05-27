@@ -49,9 +49,9 @@ I am `Izan Huang`, a software engineer based in New York, NY.
  - [izanhuang/cine](https://github.com/izanhuang/cine): The bare bones frontend of a streaming service
 
 **Mobile**
- - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): Kotlin (Jetpack Compose), Dagger, Preferences DataStore
- - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Kotlin (Jetpack Compose), Room
- - [izanhuang/tippy](https://github.com/izanhuang/Tippy): Kotlin (Jetpack Compose)
+ - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): A pokedex featuring pokemon from every generation. Jetpack Compose + Dagger + Preferences DataStore
+ - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Add, edit, and delete contacts. Jetpack Compose + Room
+ - [izanhuang/tippy](https://github.com/izanhuang/Tippy): A simple tip calculator. Jetpack Compose
 
 **Python**
 - [izanhuang/moondream-computer-vision](https://github.com/izanhuang/moondream-computer-vision): An interactive app that can detect an object in images.
