@@ -51,6 +51,7 @@ I am `Izan Huang`, a software engineer based in New York, NY.
 **Mobile**
  - [izanhuang/pokedex](https://github.com/izanhuang/pokedex): Kotlin (Jetpack Compose), Dagger, Preferences DataStore
  - [izanhuang/contacts-list](https://github.com/izanhuang/ContactsList): Kotlin (Jetpack Compose), Room
+ - [izanhuang/tippy](https://github.com/izanhuang/Tippy): Kotlin (Jetpack Compose)
 
 **Python**
 - [izanhuang/moondream-computer-vision](https://github.com/izanhuang/moondream-computer-vision): An interactive app that can detect an object in images.
