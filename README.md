@@ -33,6 +33,7 @@ I am `Izan Huang`, a software engineer based in New York, NY.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Projects
 **Full Stack Web**
+ - [izanhuang/vision-weave](https://github.com/izanhuang/vision-weave): Transforms Pinterest boards into beautiful digital vision boards.
  - [izanhuang/sai](https://github.com/izanhuang/sai): A self-improvement AI chatbot driven by GPT-3.5-turbo using React.js + Express.js
  - [izanhuang/facebook-clone](https://github.com/izanhuang/facebook-clone): Facebook clone replicating core functionalities using React.js + Firebase
  - [izanhuang/movie-finder-web](https://github.com/izanhuang/movie-finder-web): A movie finder where you can search, star movies, and create lists using React.js + Firebase
